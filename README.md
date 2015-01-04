@@ -5,12 +5,12 @@ Simple unhosted browser app to upload/show a 'stream' of pictures, with support 
 
 Built using:
 
- * Grunt
- * webpack
- * Jasmine
- * ReactJS
- * reflux
- * reaact-router
- * remoteStorage.js
+* Grunt
+* webpack
+* Jasmine
+* React
+* refluxjs
+* react-router
+* remoteStorage.js
  
- Initial skeleton by Yeoman: generator-react-webpack
+Initial skeleton by Yeoman: generator-react-webpack
